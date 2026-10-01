@@ -1,0 +1,6 @@
+{
+  "name": "Digital Logic Lab - JK Flip-Flop",
+  "description": "Interactive college digital electronics virtual laboratory for building, simulating, and verifying the JK Flip-Flop using IC 7476.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
